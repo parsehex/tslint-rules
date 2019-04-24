@@ -29,13 +29,6 @@
 			"check-preblock"
 		],
 		"array-type": [true, "array"],
-		"ordered-imports": [
-			true,
-			{
-				"import-sources-order": "lowercase-first",
-				"named-imports-order": "any"
-			}
-		],
 		"max-line-length": [true, 110],
 		"only-arrow-functions": [true, "allow-named-functions"],
 		"interface-name": [true, "never-prefix"]
