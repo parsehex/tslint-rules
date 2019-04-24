@@ -31,7 +31,8 @@
 		"array-type": [true, "array"],
 		"max-line-length": [true, 110],
 		"only-arrow-functions": [true, "allow-named-functions"],
-		"interface-name": [true, "never-prefix"]
+		"interface-name": [true, "never-prefix"],
+		"ordered-imports": [false]
 	},
 	"rulesDirectory": []
 }
