@@ -1,11 +1,8 @@
 {
-  "name": "tslint-rules",
-  "version": "0.2.0",
+  "name": "@parsehex/tslint-rules",
+  "version": "0.2.1",
   "description": "",
   "main": "index.js",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@parsehex"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/parsehex/tslint-rules.git"
